@@ -67,14 +67,6 @@ This project is a professional Power BI dashboard developed using a Blinkit reta
 
 ---
 
-### 4. Customer & Delivery Insights
-
-- Delivery Status
-- Rating Distribution
-- Discount vs Revenue
-- Demand Analysis
-- Stock Monitoring
-
 ---
 
 ## 🚀 Advanced Power BI Features
